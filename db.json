@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "caption": "#brothersister",
+      "image_url": "https://i.ibb.co/kBNHGfK/Whats-App-Image-2022-11-03-at-10-46-42-PM-1.jpg"
+    },
+    {
+      "id": "4",
+      "caption": "DogLover",
+      "image_url": "https://i.ibb.co/L6S3Qnh/Whats-App-Image-2022-11-03-at-10-46-42-PM.jpg"
+    },
+    {
+      "id": "6",
+      "caption": "Self-love",
+      "image_url": "https://i.ibb.co/VSsj3GN/Whats-App-Image-2022-11-03-at-10-46-36-PM.jpg"
+    },
+    {
+      "id": "5",
+      "caption": "smile",
+      "image_url": "https://i.ibb.co/cCrVmF8/Whats-App-Image-2022-11-03-at-10-46-37-PM.jpg"
+    },
+    {
+      "id": "10",
+      "caption": "Nuture",
+      "image_url": "https://i.ibb.co/R4XzDWM/Whats-App-Image-2022-11-03-at-10-46-38-PM.jpg"
+    }
+  ]
+}
