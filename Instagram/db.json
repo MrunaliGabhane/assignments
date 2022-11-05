@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "caption": "#brothersister",
+      "image_url": "https://i.ibb.co/k2WYz4h/Whats-App-Image-2022-11-03-at-10-46-42-PM-1.jpg"
+    },
+    {
+      "id": "2",
+      "caption": "Daisy",
+      "image_url": "https://i.ibb.co/cbmsGbQ/Whats-App-Image-2022-11-03-at-10-46-42-PM.jpg"
+    },
+    {
+      "id": "3",
+      "caption": "LoveYourself",
+      "image_url": "https://i.ibb.co/mXvC0HT/Whats-App-Image-2022-11-03-at-10-46-35-PM.jpg"
+    },
+    {
+      "id": "5",
+      "caption": "#Family",
+      "image_url": "https://i.ibb.co/Sy7W1vK/Whats-App-Image-2022-11-03-at-10-46-40-PM.jpg"
+    },
+    {
+      "id": "7",
+      "caption": "With sister ans sister in law",
+      "image_url": "https://i.ibb.co/HC5D3Qz/Whats-App-Image-2022-11-03-at-10-46-40-PM-1.jpg"
+    },
+    {
+      "id": "8",
+      "caption": "Smile"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
