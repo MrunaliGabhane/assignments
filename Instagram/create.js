@@ -155,3 +155,8 @@ function reload(){
 //create, read, update, delete
 //addpost, getdata, 
 //post, get , put and patch, delete
+
+
+
+
+//pagination
